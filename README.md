@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 Hi, Welcome to my GitHub!
 
-I am a current CS grad student at Brandeis University
+I am a current CS grad student at Brandeis University.
+
 This term, I will be exploring the theory behind computer security, digging into machine learning, and learning more about data structures and algorithms.
