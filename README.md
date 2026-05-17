@@ -19,4 +19,4 @@ Hi, Welcome to my GitHub!
 
 I am a current CS grad student at Brandeis University.
 
-This term, I will be exploring the theory behind computer security, digging into machine learning, and learning more about data structures and algorithms.
+My current focus lies in computational linguistics and natural language processing, where I explore how linguistic structure and computational methods can be combined to model and understand human language.
